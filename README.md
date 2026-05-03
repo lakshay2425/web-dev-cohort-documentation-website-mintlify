@@ -30,11 +30,5 @@ The primary brand colors have been closely matched:
 - **Text Secondary (Gray)**: `#A1A1AA`
 - **Surface Backgrounds**: Variations of `#111111` and `#1A1A1A` with subtle white borders (`rgba(255, 255, 255, 0.1)`) for card and section separation.
 
-## Technical Constraints Respected
-- **HTML/CSS Only**: No JavaScript was used for functionality or interactivity.
-- **No CSS Frameworks**: Built using 100% vanilla CSS, without TailwindCSS or any other utility frameworks.
-- **Desktop-First**: The layout is optimized for desktop viewing.
-- **No Animations**: Only subtle hover states (colors/borders) were added for basic interactivity without complex CSS animations or transitions.
-
 ## Running the Project
 Simply open `index.html` in any modern web browser to view the project.
